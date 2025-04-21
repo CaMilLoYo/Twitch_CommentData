@@ -1,0 +1,2 @@
+# Twitch_CommentData
+Twitch100時間制限に追われ配信のコメントをまとめたもの
